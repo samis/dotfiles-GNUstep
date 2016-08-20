@@ -1,0 +1,42 @@
+{
+  firefox.Firefox = {
+    SharedAppIcon = Yes;
+    Icon = "/home/samis/GNUstep/Library/WindowMaker/CachedPixmaps/firefox.Firefox.xpm";
+  };
+  pcmanfm.Pcmanfm = {
+    Icon = "/home/samis/GNUstep/Library/WindowMaker/CachedPixmaps/pcmanfm.Pcmanfm.xpm";
+  };
+  main.terminology = {
+    Icon = terminology.png;
+  };
+  emacs.Emacs = {
+    Icon = "/home/samis/GNUstep/Library/WindowMaker/CachedPixmaps/emacs.Emacs.xpm";
+  };
+  xterm.XTerm = {
+    Icon = "/home/samis/GNUstep/Library/WindowMaker/CachedPixmaps/xterm.XTerm.xpm";
+  };
+  subl3.Subl3 = {
+    Icon = "/home/samis/GNUstep/Library/WindowMaker/CachedPixmaps/subl3.Subl3.xpm";
+  };
+  "powder-toy.powder-toy" = {
+    NoResizebar = Yes;
+    EmulateAppIcon = Yes;
+    Icon = "/home/samis/GNUstep/Library/WindowMaker/CachedPixmaps/powder-toy.powder-toy.xpm";
+  };
+  xchat.Xchat = {
+    Icon = "/home/samis/GNUstep/Library/WindowMaker/CachedPixmaps/xchat.Xchat.xpm";
+    StartWorkspace = IRC;
+  };
+  "*" = {
+    KeepInsideScreen = Yes;
+    StartMaximized = Yes;
+    AlwaysUserIcon = No;
+    StartWorkspace = "Workspace 2";
+  };
+  wmblueclock.WMBlueClock = {
+    Icon = "/home/samis/GNUstep/Library/WindowMaker/CachedPixmaps/wmblueclock.WMBlueClock.xpm";
+  };
+  groupLeader.WPrefs = {
+    Icon = "/home/samis/GNUstep/Library/WindowMaker/CachedPixmaps/groupLeader.WPrefs.xpm";
+  };
+}
